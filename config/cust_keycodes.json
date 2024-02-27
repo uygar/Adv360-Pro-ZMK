@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"BSPC "
+		],
+		"description": "BSPC ",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
